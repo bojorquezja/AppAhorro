@@ -1,8 +1,8 @@
 # AppAhorro
-Usa 
+Es un ejemplo de uso de:
 
-BACKEND: spring boot, spring security con form login, spring data jpa
+SERVIDOR: spring boot, spring security con form login, spring data jpa
 
-FRONEND: thymeleaf, bootstrap, plantilla admin mazer
+WEB: thymeleaf, bootstrap, plantilla admin mazer, para delete usa method delete como al usar REST
 
 BASE DATOS: postgres
